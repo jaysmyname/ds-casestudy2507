@@ -34,7 +34,12 @@ To set up the folders `S1Q1_ResaleFlatPrices` and `S1Q2_COEQuota`, follow these 
 3. **Run the Python analysis script:**
    ```bash
    cd S1Q2_COEQuota
-   python 
+   python coe_price_prediction_model.py
+   ```
+
+4. **Generate elastic scatter plots:**
+   ```bash
+   python elasticity_scatter_plots.py
    ```
 
 ---
