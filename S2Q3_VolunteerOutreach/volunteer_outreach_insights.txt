@@ -1,0 +1,53 @@
+VOLUNTEER OUTREACH CAMPAIGN ANALYSIS
+==================================================
+
+MFT Data Analysis:
+Total respondents: 2007
+Age range: 16 - 91
+
+MFT Segments by Age Group:
+md_segment  Authority_Subversion  Fairness_Cheating  Harm_Care  Liberty_Oppression  Loyal_betrayal  Purity_Degradation
+age_group                                                                                                             
+16-24                          4                100        109                   7               5                  53
+25-34                          4                132        139                   2              13                  50
+35-44                          6                160        113                   4              10                  76
+45-54                          6                139        122                   7              12                  68
+55-64                         12                121         96                  11              24                  75
+65+                           13                111        100                   6              24                  73
+
+CMC Data Analysis:
+Total cases: 7193
+Case sources: type_of_intake
+Courts                                                         1960
+External Agency                                                1454
+Direct Intake                                                   948
+Court-Ordered- Magistrate's Complaint                           871
+Applications through Contact Centre                             725
+External Agency Referrals - Singapore Police Force (SPF)        434
+External Agency Referrals - Housing Development Board (HDB)     303
+External Agency Referrals - Member of Parliament                240
+Walk Ins                                                        119
+External Agency Referrals - Others                               59
+External Agency Referrals - Town Council                         54
+Direct Correspondence                                             5
+External Agency Referrals -Member of Parliament                   5
+Court-Ordered (Community Dispute Resolution Tribunal)             5
+External Agency Referrals -Housing Development Board (HDB)        4
+External Agency Referrals                                         4
+External Agency Referrals -Town Council                           1
+External Agency Referrals  -Others                                1
+Court-Ordered- Magistrate's Complaint \                           1
+Top relationships: type_of_dispute
+Neighbour                              4837
+Others                                 1112
+Friends                                 510
+Family                                  507
+Commercial Entity and An Individual     128
+Commercial Entities                      51
+Strangers                                21
+Landlord-Tenant                          14
+Colleagues                               13
+Case outcomes: outcome_of_cases
+Not Mediated                    4417
+Mediation With Settlement       2069
+Mediation Without Settlement     707
