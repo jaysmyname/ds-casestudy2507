@@ -42,6 +42,28 @@ To set up the folders `S1Q1_ResaleFlatPrices` and `S1Q2_COEQuota`, follow these 
    python elasticity_scatter_plots.py
    ```
 
+### S2Q3_VolunteerOutreach Setup
+
+1. **Download the required CSV file:**
+   - [MFT raw data.csv](https://data.gov.sg/collections/395/view)  
+   - [RegisteredCasesattheCommunityMediationCentre.csv](https://data.gov.sg/datasets/d_64a479fdc6e9487cd70838f769273b59/view)
+   - [SourceofCasesRegisteredattheCommunityMediationCentre.csv](https://data.gov.sg/datasets/d_9439ea87f910688c8218c361df531365/view)
+   - [RelationshipofPartiesinCasesRegisteredattheCommunityMediationCentre.csv](https://data.gov.sg/datasets/d_896523571502b305e313b249f555c244/view)
+   - [OutcomeofCasesRegisteredattheCommunityMediationCentre.csv](https://data.gov.sg/datasets/d_78b6f3b7151f01bab5740ddfe2f1b5f4/view)
+
+2. **Place the downloaded CSV files into the `S2Q3_VolunteerOutreach` folder.**
+
+3. **Run the enhanced analysis script:**
+   ```bash
+   cd S2Q3_VolunteerOutreach
+   python volunteer_outreach_analysis.py
+   ```
+
+4. **Review the generated outputs:**
+   - The script will print key insights to the console.
+   - Detailed analysis will be saved to `enhanced_volunteer_outreach_insights.txt`.
+   - Visualizations (if any) will be saved as image files in the same folder.
+
 ---
 
 **Note:**  
