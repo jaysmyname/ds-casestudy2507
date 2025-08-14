@@ -44,7 +44,7 @@ To set up the folders `S1Q1_ResaleFlatPrices` and `S1Q2_COEQuota`, follow these 
 
 ### S2Q3_VolunteerOutreach Setup
 
-1. **Download the required CSV file:**
+1. **Download the required CSV files:**
    - [MFT raw data.csv](https://data.gov.sg/collections/395/view)  
    - [RegisteredCasesattheCommunityMediationCentre.csv](https://data.gov.sg/datasets/d_64a479fdc6e9487cd70838f769273b59/view)
    - [SourceofCasesRegisteredattheCommunityMediationCentre.csv](https://data.gov.sg/datasets/d_9439ea87f910688c8218c361df531365/view)
@@ -53,7 +53,7 @@ To set up the folders `S1Q1_ResaleFlatPrices` and `S1Q2_COEQuota`, follow these 
 
 2. **Place the downloaded CSV files into the `S2Q3_VolunteerOutreach` folder.**
 
-3. **Run the enhanced analysis script:**
+3. **Run the Python analysis script:**
    ```bash
    cd S2Q3_VolunteerOutreach
    python volunteer_outreach_analysis.py
